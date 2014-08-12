@@ -1,7 +1,7 @@
 Recursos sobre agilismo en español
 ===================================
 
-EL MANIFIESTO AGIL
+####EL MANIFIESTO AGIL
 
 Manifiesto agil oficial
 
@@ -11,7 +11,7 @@ Los 12 principios agiles con chuvis
 
 https://www.youtube.com/watch?v=V5LaKpjcgKQ
 
-SCRUM
+####SCRUM
 
 En 10 minutos
 
